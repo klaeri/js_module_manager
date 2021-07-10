@@ -1,0 +1,21 @@
+.cell1
+{
+	padding:8px;
+	background:skyblue;
+}
+
+.cell2
+{
+	padding:8px;
+	background:#CCCCCC;
+}
+
+.uj_rec_bev_mezo
+{
+	width:100%;
+	-webkit-box-sizing:border-box;
+	padding:8px;
+	margin-bottom:8px;
+	border:1px solid #CCCCCC;
+	border-radius:5px;
+}

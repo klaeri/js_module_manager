@@ -1,0 +1,24 @@
+.header1_b , .content1_b
+{
+	overflow:auto;
+}
+
+.cell1_b
+{
+	padding:8px;
+	background:pink;
+	color:purple;
+	float:left;
+	width:200px;
+	border:1px solid black;
+}
+
+.cell2_b
+{
+	padding:8px;
+	background:lightblue;
+	color:black;
+	float:left;
+	width:200px;
+	border:1px solid black;
+}
